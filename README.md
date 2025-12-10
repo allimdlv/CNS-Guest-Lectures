@@ -145,10 +145,10 @@ Actions required to secure, operate, extend, maintain, and sustain DoD cyberspac
 ## Cyberspace Mission Types
 
 ### Defensive Cyberspace Operations (DCO)
-- Protect blue-space networks from active or imminent threats.
+- Protect blue cyberspace networks from active or imminent threats.
 
 ### Offensive Cyberspace Operations (OCO)
-- Project power in and through adversary networks.
+- Project power in and through adversary networks (red and gray cyberspace).
 
 ---
 
@@ -177,5 +177,3 @@ Actions required to secure, operate, extend, maintain, and sustain DoD cyberspac
   - Directs global defensive operations on the Department of Defense Information Network.
 
 ---
-
-# End of Notes
