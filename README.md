@@ -69,7 +69,7 @@
    ---
 6. ###### Emergency Communications
 
-
+---
 
 ##### **Divisions**
 
@@ -224,5 +224,51 @@
 
 
 
+## **DoD Cyber Guest Lecture**
+
+
+
+
+
+#### **DODIN Operations**
+
+* secure, configure, operate, extend, maintain, and sustain DoD cyberspace
+
+
+
+
+
+#### **DCO missions**
+
+* executed to defend blue cyberspace from imminent or active threats in cyberspace
+
+#### 
+
+#### **OCO missions**
+
+* CO missions intended to project power in through gray and red cyberspace
+
+
+
+
+
+#### **Cyber Units**
+
+* Cyber Protection Teams - DCO-IDM
+* National Mission Teams - DCO-RA
+* National Support Teams - DCO-RA
+* Combat Mission Teams - OCO
+* Combat Support Teams - OCO
+
+
+
+
+
+#### **Cyber Mission Force**
+
+* Cyber National Mission Force Headquarters - conducts CO to defeat significant cyberspace threats in DODIN
+* JFHQ-C - 
+* JFHQ-DODIN
+* 
 
 
